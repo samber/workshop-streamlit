@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ```bash
 # run
-export OPENAI_API_KEY=sk-ZsfWSRv1LAU2jlOXgMQBT3BlbkFJodduSZ2U44nNlex
+export OPENAI_API_KEY=sk-xxxxx
 streamlit run step0.py
 ```
 
