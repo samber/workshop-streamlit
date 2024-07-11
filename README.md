@@ -20,6 +20,7 @@ Python libs:
 - openai
 - langchain
 - langchain-community
+- langchain_openai
 - matplotlib
 - pandas
 
